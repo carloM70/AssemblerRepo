@@ -1,0 +1,16 @@
+
+
+ºarchivo 'infaz.asm'
+
+Este es el programa principal del reloj analogico
+
+ºarchivo 'car.asm'
+
+En este archivo se encuentra todos los diseños de los fonts utilizados (letras, numeros, figuras, etc)
+
+ºarchivo 'fonts.asm'
+En este archivo se enviamos todas las instrucciones (llamadas a las macros) para imprimir los fonts en 
+pantalla (los circulo, los numeros, la figura, ...)
+
+ºarchivo 'mafo.asm'y'stepin.asm'
+En este archivo se encuentran los macro's utilizados
